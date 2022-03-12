@@ -3,7 +3,9 @@
 
 # # Inverse Birch-Murnaghan equation with spline interpolation
 
-# How to cite: S.-H. Shim (2022) Inverse Birch-Murnaghan equation with spline interpolation.
+# How to cite: S.-H. Shim (2022) Inverse Birch-Murnaghan equation with spline interpolation. Zenodo. http://doi.org/10.5281/zenodo.6349563
+# 
+# [![DOI](https://zenodo.org/badge/469190447.svg)](https://zenodo.org/badge/latestdoi/469190447)
 
 # In `pytheos` and also other apps, such as `dioptas` and `burnman`, to get volume for given pressure, root search is used.  
 # 
